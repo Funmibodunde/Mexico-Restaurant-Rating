@@ -22,6 +22,10 @@ Rating different Restaurant in Mexico by Consumers Preferences.
 
 The project aim is to analyze and draw out meaningful insight from different restaurant in Mexico, using information about each restaurant, their cuisines, information about their consumers and the preferences of the consumers in other to aid business entrepreneurs and investors in making more informed decisions.
 
+![Github restuarant 1](https://github.com/user-attachments/assets/6a294f44-be47-40b6-b762-22d9d50cc262)
+
+![Github restuarant 2](https://github.com/user-attachments/assets/09536129-f213-4aed-bfd8-1d5f8ed71638)
+
 ### Data Sources
 
 The primary dataset used for this analysis is the “Restaurant Rating Dataset” containing 5 different tables and detailed information about each Retaurant.
